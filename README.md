@@ -1,7 +1,7 @@
 ## Build 0.1
 #### -Only one loop
-### -Hidden Password
-### -Tkinter GUI
+#### -Hidden Password
+#### -Tkinter GUI
 
 ## Build V1.0
 #### -Can do more than one loop
